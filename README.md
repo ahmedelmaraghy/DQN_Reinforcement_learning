@@ -37,8 +37,8 @@ To make the cost function stable, the target value (reward + the action value of
 Then, after each batch of training (using Stochastic gradient descent), the wights of the *trained neural network* is then copied to the * untrained (or target)* neural network. The learning continues with the aim of maximizing the expected reward.
 
 ### Output:
-The environment is solved in 479 episodes <br/>
-Average Score: 13.06 <br/>
+The environment is solved in 382 episodes <br/>	
+Average Score: 13.03 <br/>
 
 
 
