@@ -40,6 +40,6 @@ Then, after each batch of training (using Stochastic gradient descent), the wigh
 The environment is solved in 382 episodes <br/>	
 Average Score: 13.03 <br/>
 
-
+![scorevsepisodes](score.png)
 
 
